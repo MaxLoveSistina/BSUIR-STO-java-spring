@@ -15,6 +15,7 @@
 	<description>СТО: заказ услуг автосервиса (роли «мастер» и «клиент»)</description>
 
 	<properties>
+		<sonar.organization>maxlovesistina</sonar.organization>
 		<java.version>21</java.version>
 	</properties>
 
