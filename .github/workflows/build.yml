@@ -6,11 +6,13 @@ on:
     branches:
       - main
       - master
+      - ci-pipeline
 
   pull_request:
     branches:
       - main
       - master
+      - ci-pipeline
 
 jobs:
   build-and-test:
